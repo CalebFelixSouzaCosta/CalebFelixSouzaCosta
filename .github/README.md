@@ -7,9 +7,6 @@ Software Analyst,  Back End Developer
 * ✉️ Você pode entrar em contato comigo pelo [email](martinscaleb02@gmail.com)
 * 🚀 Atualmente estou trabalhando no [DevsFree](https://www.linkedin.com/company/devsfree/mycompany/)
 
-### Certificações
-<a><img src="https://images.credly.com/size/110x110/images/9d725560-03a5-4577-884d-26c8776b0b4b/LRA-DomainDrivenDesign-badge.png" width="50" height="50" alt="" />
-</a>
 
 ### Habilidades 
 <p align="left">
