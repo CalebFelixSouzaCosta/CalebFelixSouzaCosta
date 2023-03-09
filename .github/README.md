@@ -9,11 +9,12 @@ Software Analyst,  Back End Developer
 
 
 ### Habilidades 
+<!--
 <p align="left">
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="36" height="36" alt="Azure" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://nexso.gallerycdn.vsassets.io/extensions/nexso/azure-devops-google-cloud-tools/1.0.101/1632704855784/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="GCP" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<
+-->
                     
 
 ### Redes Sociais
